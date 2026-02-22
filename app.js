@@ -71,3 +71,5 @@ async function myFunction() {
  }
 }
 myFunction();
+
+console.log("End of Node Lab!");
